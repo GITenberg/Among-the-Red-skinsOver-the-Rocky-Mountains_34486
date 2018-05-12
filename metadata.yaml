@@ -1,0 +1,39 @@
+_repo: Among-the-Red-skinsOver-the-Rocky-Mountains_34486
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kingston, William Henry Giles
+    aliases:
+    - Kingston, W. H. G.
+    - Kingston, W.H.G.
+    birthdate: 1814
+    deathdate: 1880
+    gutenberg_agent_id: '8659'
+    url: http://www.gutenberg.org/2009/agents/8659
+    wikipedia: http://en.wikipedia.org/wiki/William_Henry_Giles_Kingston
+description: ''
+gutenberg_issued: '2010-11-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34486'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of North America -- Juvenile fiction'
+- !lcsh 'Orphans -- Juvenile fiction'
+- !lcsh 'Columbia Mountains (B.C.) -- Juvenile fiction'
+- !lcsh 'Animals -- Canada -- Juvenile fiction'
+- !lcsh 'Uncles -- Juvenile fiction'
+- !lcsh 'Natural history -- Juvenile fiction'
+- !lcsh 'Massacres -- Juvenile fiction'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Blackfeet Band of Dakota or Sioux Indians -- Juvenile fiction'
+- !lcsh 'Outdoor life -- Juvenile fiction'
+title: Among the Red-skins; Or, Over the Rocky Mountains
+url: http://www.gutenberg.org/ebooks/34486
